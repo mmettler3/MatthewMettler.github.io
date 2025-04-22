@@ -1,0 +1,11 @@
+title: "Matthew Mettler"
+email: "Mettler3@illinois.edu"
+description: >-
+  Political science Ph.D. candidate specializing in political behavior, public opinion, and misinformation.
+baseurl: ""
+url: "https://mattmettler.github.io"
+theme: minima
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
